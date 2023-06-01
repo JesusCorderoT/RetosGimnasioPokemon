@@ -1,0 +1,117 @@
+.darpa {
+    border-bottom: 1px dotted black;
+    text-decoration: none;
+}
+
+.img {
+    height: 30px;
+    width: 40px;
+}
+
+.pokemon {
+    height: 100px;
+    width: 100px;
+    margin: 6%;
+
+
+}
+
+.tabla,
+th,
+td {
+    color: cadetblue;
+    border: 2px solid black;
+
+}
+
+.tierra {
+    font-size: 2vw;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(5, 13, 69);
+}
+
+.imgsReceta {
+    height: 50%;
+    width: 50%;
+}
+
+
+.trueno {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    background-color: antiquewhite;
+}
+
+.disc {
+
+    text-align: center;
+}
+
+.disc .imgDisc {
+    width: 500px;
+}
+
+.logos {
+    text-align: center;
+}
+
+.imgMetro {
+    border: 2px solid rgb(1, 1, 0);
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.containerM {
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-row: auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+.box {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.volcan {
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+
+}
+
+.text {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.index {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vw;
+    text-decoration: none
+}
+
+.item {
+    background-color: rgba(0, 0, 0, 0.521);
+    margin: 15px;
+    text-align: center;
+    ;
+
+}
+
+.grid {
+    display: inline-flexbox;
+}
